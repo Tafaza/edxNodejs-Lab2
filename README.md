@@ -1,7 +1,7 @@
 # edxNodejs-Lab2
 
 
-This project is part of the Microsoft's __Introduction to NodeJS__ course. This project's purpose is to build a RESTful API to manage blog entries, like posts and comments. The REST API uses an in-memory store as database.
+This project is part of the [Microsoft's __Introduction to NodeJS__ course](https://courses.edx.org/courses/course-v1:Microsoft+DEV283x+2T2018/course/) hosted edx course platform. This project's purpose is to build a RESTful API to manage blog entries, like posts and comments. The REST API uses an in-memory store as database.
 
 ## RESTful blog API
 
